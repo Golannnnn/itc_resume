@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+@media print {
+  .hideInPrint {
+    display: none !important;
+  }
+
+  .rm-margin {
+    margin-bottom: 0px !important;
+  }
+}
+
+@page {
+  margin-top: 0cm;
+  margin-bottom: 0cm;
+}
