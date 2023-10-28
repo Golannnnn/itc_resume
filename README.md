@@ -6,4 +6,4 @@ This is a single page application that allows you to create a custom resume by h
 
 This is still a work in progress, feel free to contribute!
 
-![website preview](/screenshot.png)
+<img src="/screenshot.png" alt="page preview" width="50%" height="auto">
